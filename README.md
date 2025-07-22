@@ -1,5 +1,5 @@
 # Movie-Recommendation-and-Review-Prediction 📽️
-This project is a Multinomial Naive Bayes application that lets you classify your own movie reviews and receive movie recommendations. The program is built using Python (3.10.9). To generate a new trained model (.pickle file), delete the existing pickle file and run the program to create a new one. The dataset used for the model's training is from IMDB Movies Dataset.
+This project is a Multinomial Naive Bayes application that lets you classify your own movie reviews and receive movie recommendations. The program is built using Python (3.10.9). To generate a new trained model (.pickle file), delete the existing pickle file and run the program to create a new one.
 
 ## 📜Features 
 The program's menu includes 4 main features:
