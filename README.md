@@ -1,10 +1,10 @@
 # Movie-Recommendation-and-Review-Prediction📽️
-This project is a Multinomial Naive Bayes application that lets you classify your own movie reviews and receive movie recommendations. The program is built using Python (3.10.9). To generate a new trained model (.pickle file), delete the existing pickle file and run the program to create a new one.
+This project is a Multinomial Naive Bayes application that lets you classify your own movie reviews and receive movie recommendations. The program is built using Python (3.10.9). To generate a new trained model (.pickle file), delete the existing pickle file and run the program to create a new one. The current trained model has 88% accuracy.
 
 ## 📜Features 
 The program's menu includes 4 main features:
 1. **Write Review** - Write your own movie review and the model will predict wether it's positive or negative
-2. **View Movie Recommendation** - The model will give you 2 movie recommendations based on the review you write
+2. **View Movie Recommendation** - The model will give you 3 movie recommendations based on the review you write
 3. **View Named Entity Recognition** - Display entity tags such as language and location, along with the corresponding entity items present in the review.
 4. **Exit** - Close the program
 
